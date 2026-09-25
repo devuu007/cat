@@ -1,14 +1,7 @@
-<html>
-<body>
-   <h1>Vision CSS</h1>
-   <p>Vision CSS is a lightweight CSS framework that helps you build responsive and modern web  applications quickly. It provides a set of pre-designed components and utilities that can be easily customized to fit your project's needs.</p>
-   <h2>Features</h2>
-   <ul>
-      <li>Responsive grid system</li>
-      <li>Pre-designed UI components</li>
-      <li>Customizable themes</li>
-      <li>Cross-browser compatibility</li>
-      <li>Easy to use and integrate</li>
-   </ul>
-</body>
-</html>
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+}
